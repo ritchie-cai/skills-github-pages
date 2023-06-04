@@ -1,4 +1,4 @@
 ---
-Welcome to my AI-IoT World!
+title: Welcome to my AI-IoT World!
 ---
 
